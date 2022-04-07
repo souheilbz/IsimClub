@@ -1,5 +1,8 @@
 IsimClub is a club management app that helps you find the right club for you.
-<img src="https://user-images.githubusercontent.com/76651082/162247772-b85e5d6b-4f4b-4fce-88a8-4f6788966af9.png" width="300" height="500">
+
+
+
+<img src="https://user-images.githubusercontent.com/76651082/162247772-b85e5d6b-4f4b-4fce-88a8-4f6788966af9.png" width="300" height="600">
 
 <img src="https://user-images.githubusercontent.com/76651082/162247813-e1a3b754-fb45-494f-a66d-4bbfb478ae22.png" width="200" height="400">
 
