@@ -22,4 +22,4 @@ IsimClub is a club management app that helps you find the right club for you.
 
 <img src="https://user-images.githubusercontent.com/76651082/162247878-247c1a44-85de-40ff-8447-39d87d79428f.png" width="300" height="600">
 
-![Simulator Screen Shot - iPhone 12 Pro Max - 2022-04-07 at 17 38 30](https://user-images.githubusercontent.com/76651082/162254015-ee9c1a2c-5f40-4672-bbb3-c47b12566579.png)
+
