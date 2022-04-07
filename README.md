@@ -10,7 +10,7 @@ IsimClub is a club management app that helps you find the right club for you.
 
 <img src="https://user-images.githubusercontent.com/76651082/162247835-0d8cac3f-4444-4ebd-8807-cf60c2048e21.png" width="300" height="600">
 
-<img src="https://user-images.githubusercontent.com/76651082/162247847-d68e8208-a2eb-4dff-923d-8acd090d2aef.png" width="300" height="600">
+<img src="https://user-images.githubusercontent.com/76651082/162254015-ee9c1a2c-5f40-4672-bbb3-c47b12566579.png" width="300" height="600">
 
 <img src="https://user-images.githubusercontent.com/76651082/162247855-836b3b22-9436-4f16-bbcb-6429effe7101.png" width="300" height="600">
 
@@ -22,3 +22,4 @@ IsimClub is a club management app that helps you find the right club for you.
 
 <img src="https://user-images.githubusercontent.com/76651082/162247878-247c1a44-85de-40ff-8447-39d87d79428f.png" width="300" height="600">
 
+![Simulator Screen Shot - iPhone 12 Pro Max - 2022-04-07 at 17 38 30](https://user-images.githubusercontent.com/76651082/162254015-ee9c1a2c-5f40-4672-bbb3-c47b12566579.png)
