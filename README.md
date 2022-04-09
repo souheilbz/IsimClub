@@ -1,4 +1,4 @@
-IsimClub is a club management app that helps you find the right club for you..
+IsimClub is a club management app that helps you find the right club for you.
 
 
 
